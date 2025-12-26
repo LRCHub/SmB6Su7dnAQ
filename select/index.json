@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよならリボルバー",
+  "base_artist": "センポクカンポク",
+  "createdAt": "2025-12-26T06:44:32.106348Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならリボルバー",
+      "artist": "センポクカンポク",
+      "has_synced": false,
+      "path": "select/pl_01_さよならリボルバー_センポクカンポク.txt"
+    }
+  ]
+}
